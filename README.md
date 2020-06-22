@@ -1,6 +1,6 @@
-##　Gitlab Community Edition 镜像使用帮助
+## Gitlab Community Edition 镜像使用帮助
 
-####　RHEL/CentOS 用户
+#### RHEL/CentOS 用户
 
 新建 /etc/yum.repos.d/gitlab-ce.repo，内容为
 
@@ -35,7 +35,7 @@ nginx['listen_port'] = 80
 
 ![](./images/login.png)
 
-#### 添加组、创建项目、创建用户
+#### 添加组、创建项目
 
 **1. 创建组**
 
@@ -44,3 +44,5 @@ nginx['listen_port'] = 80
 ![](./images/group.png)
 
 **2. 创建项目**
+
+![](./images/webapp.png)
